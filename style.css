@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#content {
+    text-align: center;
+    padding: 20px;
+}
+
+input[type="text"] {
+    margin: 10px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#output p {
+    color: #333;
+}
